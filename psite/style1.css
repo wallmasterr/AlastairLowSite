@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+	background-image: url(image/bg3.jpg);
+	background-repeat:no-repeat;
+	 }
+#apDiv1 {
+	left:117px;
+	top:20px;
+	width:700px;
+	z-index:1;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	padding: 10px;
+	font-size: x-small;
+}
+#logo {
+	position:absolute;
+	left:184px;
+	top:-7px;
+	width:327px;
+	height:170px;
+	z-index:1;
+}
+#header {
+}
+#header2 {
+	float:right;
+	position: relative;
+	left: 10px;
+	top: 0px;
+}
+.datebar {
+	background-image: url(image/datebar.png);
+	height: 30px;
+	width: 500px;
+	font-size: large;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	padding: 17px;
+	color: #FFFFFF;
+	left: 0px;
+	top: 100px;
+	background-repeat: no-repeat;
+}
+.menu {
+	color: #499EE1;
+	font-size: large;
+}
+li {
+	background-color: #FFFFFF;
+	list-style-image: none;
+	list-style-type: none;
+	list-style-position: inside;
+	display: inline;
+	padding: 10px;
+}
+ul {
+	display: inline;
+}
+
+a {
+	background-color:#FFFFFF;
+	text-decoration:none;
+	color:#499EE1;
+	padding: 5px;
+}
+a:hover {
+	background-color:#499EE1;
+	color: #FFFFFF;
+	padding: 5px;
+}
+h1
+{
+	color:#479BE2;
+}

@@ -1,0 +1,48 @@
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0 bgcolor="#C6D7CF" style="padding-left: 5px">
+<form method=post action="(%ENV_SCRIPT_NAME%)">
+<input type=hidden name=cmd value=claim>
+<input type=hidden name=sid value=(%INPUT_sid%)>
+<input type=hidden name=do value=1>
+<input type=hidden name=tid value=(%INPUT_tid%)>
+<input type=hidden name=key value=(%INPUT_key%)>
+<input type=hidden name=qsort value="(%INPUT_qsort%)">
+<input type=hidden name=qsortorder value="(%INPUT_qsortorder%)">
+<input type=hidden name=qoffset value=(%INPUT_qoffset%)>
+<input type=hidden name=qwindow value=(%INPUT_qwindow%)>
+        <tr>
+                <td colspan=3 class=tiny>&nbsp</td>
+        </tr>
+        <tr>
+                <td align=left class=lbl>Status</td>
+                <td>&nbsp;&nbsp;</td>
+                <td align=left>(%TICKET_status%)</td>
+        </tr>
+        <tr>
+                <td align=left class=lbl>Subject</td>
+                <td>&nbsp;&nbsp;</td>
+                <td width=90% align=left>(%TICKET_subject%)</td>
+        </tr>
+        <tr>
+                <td align=left class=lbl>Created</td>
+                <td>&nbsp;&nbsp;</td>
+                <td align=left>(%TICKET_open%)</td>
+        </tr>
+        <tr>
+                <td colspan=3 class=tiny>&nbsp</td>
+        </tr>
+</table>
+<br class=tiny>
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0>
+(%MESSAGES%)
+</table>
+<br class=tiny>
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0 bgcolor="#CFDCE8">
+    <tr>
+                <td align=center>
+                        <br class=tiny><br class=tiny>
+                        <input type=submit value="Claim ownership">&nbsp;&nbsp;<input type=submit name=cancel value=Cancel>
+                        <br><br class=tiny><br class=tiny>
+                </td>
+        </tr>
+        </form>
+</table>

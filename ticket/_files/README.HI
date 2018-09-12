@@ -1,0 +1,5 @@
+Note:
+  The standard installation uses a text based DB.  There is a (non-free)
+module that can be ordered by the customer from Trouble Ticket Express
+themselves that enables the use of a MySQL database.  It is not part of
+this installation.   DO NOT ADD a .needs-db file to the directory.

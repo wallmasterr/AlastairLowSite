@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+.active  { color:#FFFFFF; text-decoration:none;}
+.header a {
+	background-color: #000000;
+	padding: 10px;
+	color: #666666;
+	text-decoration: none;
+}
+.wrapper {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+body {
+	color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+body a {
+	color: #333333;
+	text-decoration: none;
+}
+
+.header {
+	height: 95px;
+	background-color: #000000;
+	padding: 10px;
+	color: #666666;
+	float: left;
+	width: 1680px;
+}
+.test2 {
+#FFFFFF; 5px;;
+	background-image: url(../images/stripe_424490bcb89eba5c6b6f.png);
+	height: 310px;
+	width: 1700px;
+}
+#win1 {
+	position:absolute;
+	top:167px;
+	width:325px;
+	height:306px;
+	z-index:1;
+	border-top: #DD1F8E solid 8px;
+	background-color: #FFFFFF;
+	padding: 20px;
+}

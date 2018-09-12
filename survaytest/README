@@ -1,0 +1,183 @@
+
+VERSION INFO
+------------
+
+SurveySays - Version 2.0
+Released: 6/21/02
+
+AUTHOR
+------
+
+Matt Riffle
+http://www.mattriffle.com/
+
+LICENSE
+-------
+
+This program is free software; you can redistribute it and/or       
+modify it under the terms of the GNU General Public License         
+as published by the Free Software Foundation; either version 2      
+of the License, or (at your option) any later version.              
+                                                                    
+This program is distributed in the hope that it will be useful,     
+but WITHOUT ANY WARRANTY; without even the implied warranty of      
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the       
+GNU General Public License for more details.  It is included in     
+this distribution in the file "license.txt".                        
+                                                                    
+You should have received a copy of the GNU General Public License   
+along with this program; if not, write to the Free Software         
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA          
+02111-1307, USA.                                                    
+
+WHAT'S NEW
+----------
+
+This README is for SurveySays v2.0.  Major changes since the 1.x tree
+include: 
+
+* vastly improved file-locking;  when properly setup, it should be next
+  to impossible for the script to lose the data
+
+* you can now use cookies to track who has voted, as well as the IP
+  caching
+
+* "view results" button replaced with sleeker and better-working text
+  link
+
+* you can now choose to order results by the order given in @CHOICES or
+  from low to high, as well as the default high to low
+
+* you can now choose to display a "come back later for results" message
+  until X votes have been received
+
+* vastly improved error-reporting
+
+* there is now only one script, instead of two (it wasn't really gaining
+  much, and it confused some people)
+
+* you can now set a poll to "archive" so that it only displays results
+  without accepting further votes (although this is really dumb, as
+  explained in the comments of surveysays.pl)
+
+SETUP
+-----
+
+This probably should not be the first CGI script you ever try to setup. :)
+It's not complicated if you know a bit about it, but, if you don't...  I'd
+recommend reading some tutorials on CGI before you start, or asking a sys
+admin friend for help. :)
+
+Each variable is well-commented in surveysays.pl -- you can use the comments
+as guidelines helping you to set them correctly.  A few further notes:
+
+ a) Use full paths for all files and directories.  A full path would
+    look similar to:
+
+    /usr/home/you/data.txt
+
+    In UNIX, you can use the command "pwd" to get the full path of
+    your current working directory.  If you don't have telnet 
+    access or host on NT, try asking your sys admin if you are unsure
+    of the full path.
+
+ b) The following UNIX permissions are needed for the various parts
+
+    chmod 755 surveysays.pl
+
+    In order for the script to create its data file on the first
+    run, the directory where it should be placed (specified by you
+    in poll.pl) should be "chmod 777".  If you choose to create the
+    file yourself (with "touch FILENAMEHERE" in UNIX), then you 
+    should "chmod 777" the file itself.
+
+    Those permissions might be overkill -- ask your sys admin for the
+    minimum needed to allow the web server to write to the file.
+
+    If you are using NT, make sure that the poll.pl and surveysays.pl
+    scripts are executable by the server, and that the data file
+    can be written to by the web server.
+
+The usage of this script requires "Server Side Includes" (SSI).  In a
+nutshell, this is a type of document that the server looks through
+before sending to the web browser.  Any special SSI tags are 
+processed and replaced with their output.
+
+In order to add a poll to your page, you must add an SSI tag to your
+document.  For the Apache server, this would look like:
+
+<!--#exec cgi="/cgi-bin/surveysays.pl" -->
+
+If the script is set up properly, the poll should appear in place of
+this tag when the page is called via a web browser.  Note that your
+tag might be slightly different, depending on the name of your 
+surveysays.pl file and it's location in your web tree.
+
+On most servers, a file must have a .shtml extension (index.shtml, for
+example) in order to use SSI.  If that doesn't seem to work, check
+with your sys admin to ensure you can use SSI, and to find out how to
+do so.
+
+If, when viewing the page through a browser, the poll doesn't appear,
+try checking the source code ("View Source" under the View menu in
+Netscape).  If the SSI tag is in the source code, then the server did
+not treat the page as an SSI document.  If it does not appear, then
+the server tried but was unable to execute the script.  Check your
+variables again, and double-check all the permissions.
+
+There are a number of error messages that might be displayed within the
+poll box itself if something goes wrong.  They include:
+
+  "Couldn't lock file"
+
+    The web server was not able to open the file listed in $SEMAPHORE.
+    Make sure that the path to it is correct and that the web server has
+    write permissions to that file.
+
+  "Error opening file"
+
+    The web server was not able to open the data file listed in $DATAFILE.
+    Make sure that the path to it is correct and that the web server has
+    read and write permissions to that file.
+ 
+  "Error writing file"
+
+    The web server was not able to write to the data file listed in $DATAFILE.
+    Make sure that the path to it is correct and that the web server has
+    read and write permissions to that file.
+
+  "Data file corrupted"
+
+    The data file ($DATAFILE) has become corrupt.  This likely means you
+    need to delete it and start over.  If you are using $TMP_DIR, this
+    should be next to impossible on a moderm UNIX system.
+
+  "Number of choices has changed"
+
+    You can't change the number of choices mid-poll.  If you do, this error
+    will occur.  (Well, you can if you edit both the script and the data
+    file, but you are on your own with that.)
+
+  "Error unlocking file"
+
+    An error occurred closing the file in $SEMAPHORE.  This error should
+    never happen, really.
+
+SUPPORT
+-------
+
+No support is provided for this application.
+
+There is a BBS on-site at http://www.pingpackets.com/ where you can interact 
+with other users and ask questions if you'd like. In this way, you can help
+each other out.
+
+If you are unable to get a script to work and are anxious to use it, I 
+recommend finding someone qualified to help you with it. I do not, and will
+not, however, endorse any specific person or business. I highly recommend 
+taking all normal business precautions (legal contracts, etc.) when
+choosing someone to help you.
+
+Please do not e-mail me with script-related questions, with the exception of 
+security issues.
+

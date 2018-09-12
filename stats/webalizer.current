@@ -1,0 +1,925 @@
+# Webalizer V2.21-02 Incremental Data - 02/07/2018 21:17:13
+2018 2 7 21 17 13
+465 313 121 57 26 66 24074214 193 83 0
+50 3 80 2 7
+0 0 0 0 0 0
+2 2 0 2 2 2
+0 0 0 0 0 0
+57 52 3539812 10 9 7
+161 68 8130164 22 99 17
+78 63 7914001 44 32 22
+167 128 4490237 50 51 35
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 4 382501 1
+4 1 5278 1
+10 8 7096360 5
+5 3 626971 2
+12 9 7095835 8
+1 1 5045 0
+96 14 98212 91
+3 1 5562 1
+7 4 147384 3
+11 10 214861 3
+5 4 376713 2
+8 5 1811780 2
+7 5 87907 3
+14 10 75322 9
+35 26 400989 5
+10 4 15476 8
+9 6 79780 7
+3 1 5562 1
+32 32 367738 5
+39 37 396693 10
+110 99 4437880 16
+25 22 297838 3
+5 2 11132 2
+6 5 31395 5
+0
+0
+0
+313
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+16
+0
+0
+0
+0
+0
+1
+134
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/lightbox/1small.jpg
+1 5 33729200 29780 0 0
+/
+0 82 8243124634848815462 385227 68 3
+/psite/image/pidgion_cartoon-2.png
+1 3 33615968 161247 0 0
+/css/lightbox.css
+0 7 33727840 11557 0 0
+/psite/
+0 1 34023568 0 0 0
+/images/3dicon.png
+1 7 33730208 21888 0 0
+/images/lightbox/smalCharcoal.png
+1 1 33613328 18232 0 0
+/js/prototype.js
+0 10 33728176 1261320 0 0
+/images/lightbox/womansmall.png
+1 1 33612944 15316 0 0
+/js/builder.js
+0 7 33728624 33390 0 0
+/images/lightbox/2small.jpg
+1 1 33612592 3253 0 0
+/images/lightbox/ghoulsmall.png
+1 7 33729728 69125 0 0
+/images/loading.gif
+1 6 33730640 17270 0 0
+/psite/image/timeline.jpg
+1 1 34026496 23318 0 0
+/js/scriptaculous.js
+0 10 33727632 26540 0 0
+/images/lightbox/3big.jpg
+1 4 33612096 691821 0 0
+/images/lightbox/8big.jpg
+1 1 33614336 622506 0 0
+/images/home_button.png
+1 6 33729856 19806 0 0
+/2dgallery.html
+0 5 33467376 40945 0 1
+/images/lightbox/3small.jpg
+1 5 33729600 30905 0 0
+/contact.html
+0 8 33468080 32496 3 0
+/js/effects.js
+0 8 33728512 311888 0 0
+/images/closelabel.gif
+1 6 33730752 4895 0 0
+/images/colorband.png
+1 5 33730320 3120 0 0
+/images/lightbox/smallPen.png
+1 1 33613584 20673 0 0
+/Alastair_Low_CV_2013.pdf
+0 2 33615664 138020 0 0
+/images/lightbox/boy watercolour1.png
+1 4 33612352 851272 0 0
+/css/style.css
+0 8 33727952 22064 0 0
+/images/lightbox/redlarge.jpg
+1 3 33612224 262842 0 0
+/images/site logo.png
+1 6 33728960 117720 0 0
+/images/lightbox/4small.jpg
+1 1 33613072 6649 0 0
+/images/btn-twitter.png
+1 7 33728848 18888 0 0
+/images/lightbox/ghoulpresentation1.png
+1 3 33613840 1851189 0 0
+/3dgallery.html
+0 8 33612480 79992 3 0
+/images/lightbox/smallWatercolourboy.png
+1 6 33729456 124728 0 0
+/images/btn-youtube.png
+1 6 33728400 28662 0 0
+/images/lightbox/charcoalBoy.png
+1 1 33614208 370416 0 0
+/images/background.png
+1 5 33730528 17720 0 0
+/images/btn-da.png
+1 7 33728288 35315 0 0
+/images/lightbox/redsmall.png
+1 6 33729328 66414 0 0
+/images/lightbox/6small.jpg
+1 1 33612816 3957 0 0
+/images/icon_128.png
+1 7 33729968 24164 0 0
+/webgallery.html
+0 1 34010880 3480 1 0
+/images/btn-fb.png
+1 7 33728736 13836 0 0
+/images/lightbox/gargoilcollage.png
+1 2 34019712 631529 0 0
+/images/lightbox/4big.jpg
+1 1 33613712 241909 0 0
+/images/lightbox/gargoilsmall.png
+1 5 33729072 120065 0 0
+/images/contact_button.png
+1 7 33730080 22344 0 0
+/js/lightbox.js
+0 9 33728064 165501 0 0
+/images/lightbox/smallPopArtboy.png
+1 1 33613456 20664 0 0
+/psite/Evaluation.pdf
+0 1 34023872 72524 0 0
+/apk/Fleafree10.apk
+0 2 33467600 14113194 0 0
+/images/lightbox/boyPopart.png
+1 1 33614080 388347 0 0
+/favicon.png
+1 9 0 64048 0 0
+/images/lightbox/1big.jpg
+1 2 33619088 270524 0 0
+/psite/image/logotextbluegradient2.png
+1 1 34027056 0 0 0
+/images/lightbox/8small.jpg
+1 1 33613200 30077 0 0
+# End Of Table - urls
+# -sites- (monthly)
+fetcher9-4.p.mail.ru
+0 1 0 284 0 0
+-
+crawl-66-249-70-10.googlebot.com
+0 1 0 0 0 0
+-
+104.236.25.46
+0 8 5 33695 1 1517922956
+/2dgallery.html
+200.subnet125-164-40.speedy.telkom.net.id
+0 1 1 53749 0 0
+-
+185.24.77.24
+0 1 0 288 0 0
+-
+msnbot-199-30-24-100.search.msn.com
+0 2 2 8487 0 0
+-
+seosemcms4.example.com
+0 80 1 28459 1 1517812927
+-
+crawl-66-249-70-6.googlebot.com
+0 9 5 300015 1 1517975824
+/contact.html
+abts-del-dynamic-89.30.77.182.airtelbroadband.in
+0 1 0 284 1 1517828931
+-
+223-141-244-87.sat.poltava.ua
+0 1 1 5278 1 1517979050
+/
+msnbot-207-46-13-13.search.msn.com
+0 1 1 3452 0 0
+-
+crawl-66-249-79-38.googlebot.com
+0 1 0 288 0 0
+-
+node0.exensa.net
+0 3 2 10840 2 1518006925
+/
+msnbot-157-55-39-46.search.msn.com
+0 1 1 3480 1 1517930115
+/webgallery.html
+msnbot-157-55-39-15.search.msn.com
+0 1 0 284 0 0
+-
+ec2-13-56-229-65.us-west-1.compute.amazonaws.com
+0 1 1 5278 1 1517985052
+/
+lh28409.voxility.net
+0 1 1 5278 1 1518013085
+/
+msnbot-199-30-24-217.search.msn.com
+0 2 2 40408 0 0
+-
+researchscan21.comsys.rwth-aachen.de
+0 1 1 5278 1 1517961052
+/
+ec2-54-165-90-203.compute-1.amazonaws.com
+0 2 1 5566 1 1518015114
+/
+msnbot-157-55-39-235.search.msn.com
+0 2 0 564 1 1517948832
+-
+37.17.172.122
+0 7 6 7089716 1 1517885711
+/3dgallery.html
+robertsons-electrical-fa0.inet.ntl.com
+0 22 21 329384 1 1517839556
+/contact.html
+msnbot-199-30-25-146.search.msn.com
+0 2 2 9257 0 0
+-
+msnbot-40-77-167-24.search.msn.com
+0 1 1 3192 0 0
+-
+crawl-54-236-1-14.pinterest.com
+0 2 1 10283 1 1517958610
+/3dgallery.html
+74.115.214.131
+0 1 1 0 1 1517580593
+/
+74.115.214.134
+0 1 1 0 1 1517771754
+/
+msnbot-207-46-13-158.search.msn.com
+0 1 1 9999 1 1517908485
+/3dgallery.html
+195.22.127.249
+0 6 0 1734 0 0
+-
+msnbot-199-30-24-9.search.msn.com
+0 1 1 2654 0 0
+-
+msnbot-65-55-210-215.search.msn.com
+0 1 1 13825 0 0
+-
+148.30.120.64.reverse.shredvirtual.com
+0 1 1 0 1 1518029895
+/
+74.115.214.155
+0 1 1 0 1 1517583802
+/
+google-proxy-66-249-81-173.google.com
+0 12 12 97771 0 0
+-
+msnbot-199-30-25-102.search.msn.com
+0 1 1 18389 0 0
+-
+msnbot-157-55-39-130.search.msn.com
+0 1 1 5278 1 1517946364
+/
+host86-153-151-143.range86-153.btcentralplus.com
+0 1 1 5278 1 1517772922
+/
+bull-brogin.dreamhost.com
+0 1 0 288 1 1517844839
+-
+google-proxy-64-233-172-128.google.com
+0 1 1 8006 0 0
+-
+host-89-241-177-149.as13285.net
+0 27 27 345895 1 1517860721
+/
+crawl-66-249-70-7.googlebot.com
+0 4 4 152557 1 1517994156
+/
+208.94.234.21
+0 1 1 5278 1 1517985593
+/
+ec2-34-224-15-102.compute-1.amazonaws.com
+0 2 1 5566 1 1517955659
+/
+213.248.250.193
+0 6 4 11124 1 1518008524
+/
+cpc140052-dund16-2-0-cust80.16-4.cable.virginm.net
+0 31 30 361081 1 1518038233
+-
+crawl-66-249-64-74.googlebot.com
+0 2 1 5566 1 1517999919
+/
+msnbot-199-30-24-159.search.msn.com
+0 1 1 24013 0 0
+-
+msnbot-207-46-13-150.search.msn.com
+0 1 0 0 1 1517777220
+/
+google-proxy-66-249-93-20.google.com
+0 1 1 5278 1 1517768290
+/
+msnbot-199-30-25-149.search.msn.com
+0 1 1 126132 0 0
+-
+anchova.com.br
+0 1 0 293 1 1517845411
+-
+host-62-24-181-135.as13285.net
+0 5 3 47486 1 1517766314
+/
+130.30.120.64.reverse.shredvirtual.com
+0 1 1 0 1 1517979589
+/
+ec2-50-112-194-65.us-west-2.compute.amazonaws.com
+0 3 3 15834 2 1518033286
+/
+104.193.88.244
+0 1 1 5278 1 1518019917
+/
+crawl-66-249-64-78.googlebot.com
+0 7 7 2176796 1 1518001134
+/
+msnbot-157-55-39-6.search.msn.com
+0 1 0 284 0 0
+-
+crawl-66-249-70-4.googlebot.com
+0 15 10 1054818 1 1517949940
+/
+208.88.225.18
+0 1 1 5278 1 1517985586
+/
+msnbot-157-55-39-142.search.msn.com
+0 1 1 3648 0 0
+-
+ec2-52-22-209-17.compute-1.amazonaws.com
+0 1 1 5278 1 1517959680
+/
+ec2-54-198-30-126.compute-1.amazonaws.com
+0 2 1 5562 1 1517887404
+/
+static-204-15-65-204.websense.com
+0 1 1 5278 1 1517965510
+/
+38.99.62.93
+0 1 1 5278 1 1518011705
+/
+researchscan399.eecs.umich.edu
+0 1 1 5278 1 1518032579
+/
+95.45.254.121
+0 5 5 32806 1 1517985822
+/2dgallery.html
+researchscan19.comsys.rwth-aachen.de
+0 1 1 5278 1 1517963184
+/
+msnbot-199-30-25-5.search.msn.com
+0 1 1 3648 0 0
+-
+184.174.119.200.rdns.colocationamerica.com
+0 1 1 5278 1 1518033957
+/
+google-proxy-66-249-93-19.google.com
+0 1 1 8006 0 0
+-
+crawl-66-249-70-8.googlebot.com
+0 10 3 18283 1 1517993469
+/psite/
+fetcher-img1-2.p.mail.ru
+0 1 0 284 0 0
+-
+host-62-24-181-134.as13285.net
+0 7 6 283639 1 1517861190
+/
+google-proxy-66-249-81-175.google.com
+0 8 8 68358 1 1518027406
+/
+205.222.248.171
+0 1 1 53749 0 0
+-
+static.213-239-205-118.clients.your-server.de
+0 1 1 5278 1 1518003875
+/
+msnbot-199-30-24-22.search.msn.com
+0 2 2 8193 0 0
+-
+msnbot-199-30-24-40.search.msn.com
+0 1 1 3192 0 0
+-
+google-proxy-66-249-93-47.google.com
+0 1 1 8006 0 0
+-
+zek.zekewilliams.com
+0 1 0 287 1 1517847147
+-
+b115300.yse.yahoo.net
+0 8 6 7090000 2 1517838725
+/3dgallery.html
+185.206.82.195
+0 1 1 5278 1 1517845153
+/
+180.243.182.215
+0 1 1 53749 0 0
+-
+msnbot-157-55-39-194.search.msn.com
+0 1 1 5045 0 0
+-
+149.254.234.162
+0 46 45 3504560 1 1517777921
+/3dgallery.html
+crawl-66-249-79-130.googlebot.com
+0 1 0 284 0 0
+-
+ip215.ip-91-134-146.eu
+0 1 1 5278 1 1517950177
+/
+syd1.agilishosting.net
+0 1 0 288 1 1517845992
+-
+google-proxy-64-233-172-158.google.com
+0 1 1 5278 1 1518030122
+/
+spider-7.lipperhey.com
+0 11 7 44541 1 1518034642
+/
+nat-service2.aws.kontera.com
+0 1 1 4062 1 1517847613
+/contact.html
+crawl-66-249-70-5.googlebot.com
+0 3 2 40921 0 0
+-
+ec2-52-200-221-20.compute-1.amazonaws.com
+0 1 1 5278 1 1517947010
+/
+msnbot-157-55-39-150.search.msn.com
+0 1 0 288 0 0
+-
+cofe09.filmevidapravc.com
+0 1 1 5278 1 1517954418
+/
+client-qual.serverspace.co.uk
+0 1 0 283 1 1517844251
+-
+185.183.96.68
+0 1 1 5278 1 1517976420
+/
+ec2-52-14-138-148.us-east-2.compute.amazonaws.com
+0 3 3 9687 1 1517985290
+/
+msnbot-199-30-25-131.search.msn.com
+0 1 1 4777 0 0
+-
+107.170.213.98
+0 3 2 10854 2 1518016368
+/
+47.110.187.35.bc.googleusercontent.com
+0 1 1 5278 1 1518020433
+/
+55.218.195.35.bc.googleusercontent.com
+0 1 1 5278 1 1517934913
+/
+blade127.mijndomein.nl
+0 1 0 286 1 1517846567
+-
+217.147.169.217
+0 1 1 5278 1 1517821291
+/
+ec2-34-233-124-6.compute-1.amazonaws.com
+0 2 1 5278 1 1517978912
+/
+zuim.de
+0 1 1 5278 1 1517983826
+/
+46.229.164.98
+0 1 0 288 0 0
+-
+46.229.164.99
+0 1 0 288 0 0
+-
+rev54.rtbhouse.net
+0 2 2 10556 1 1517958031
+/
+69.63.188.112
+0 1 1 20788 0 0
+-
+static.88-198-22-8.clients.your-server.de
+0 2 0 569 0 0
+-
+217.147.169.253
+0 1 1 5278 1 1517928218
+/
+msnbot-199-30-24-218.search.msn.com
+0 3 3 15478 0 0
+-
+ec2-54-183-130-127.us-west-1.compute.amazonaws.com
+0 1 1 5278 1 1517951631
+/
+crawl-66-249-70-2.googlebot.com
+0 1 1 2654 0 0
+-
+fetcher9-1.p.mail.ru
+0 1 1 5278 1 1517814545
+/
+ip92.ip-54-36-150.eu
+0 1 0 284 0 0
+-
+google-proxy-66-249-81-171.google.com
+0 6 6 169763 0 0
+-
+wosvps1.wosbox.co.uk
+0 1 1 0 1 1517904640
+/
+applify.me
+0 2 2 10556 1 1517769092
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-70-10.googlebot.com
+0 1 0 0 0 0
+-
+185.24.77.24
+0 1 0 288 0 0
+-
+crawl-66-249-70-6.googlebot.com
+0 5 3 257987 1 1517975824
+/contact.html
+223-141-244-87.sat.poltava.ua
+0 1 1 5278 1 1517979050
+/
+node0.exensa.net
+0 1 1 5278 1 1518006925
+/
+ec2-13-56-229-65.us-west-1.compute.amazonaws.com
+0 1 1 5278 1 1517985052
+/
+lh28409.voxility.net
+0 1 1 5278 1 1518013085
+/
+ec2-54-165-90-203.compute-1.amazonaws.com
+0 2 1 5566 1 1518015114
+/
+msnbot-40-77-167-24.search.msn.com
+0 1 1 3192 0 0
+-
+195.22.127.249
+0 6 0 1734 0 0
+-
+148.30.120.64.reverse.shredvirtual.com
+0 1 1 0 1 1518029895
+/
+google-proxy-66-249-81-173.google.com
+0 12 12 97771 0 0
+-
+google-proxy-64-233-172-128.google.com
+0 1 1 8006 0 0
+-
+crawl-66-249-70-7.googlebot.com
+0 4 4 152557 1 1517994156
+/
+208.94.234.21
+0 1 1 5278 1 1517985593
+/
+213.248.250.193
+0 6 4 11124 1 1518008524
+/
+cpc140052-dund16-2-0-cust80.16-4.cable.virginm.net
+0 31 30 361081 1 1518038233
+-
+crawl-66-249-64-74.googlebot.com
+0 2 1 5566 1 1517999919
+/
+130.30.120.64.reverse.shredvirtual.com
+0 1 1 0 1 1517979589
+/
+ec2-50-112-194-65.us-west-2.compute.amazonaws.com
+0 1 1 5278 1 1518033286
+/
+104.193.88.244
+0 1 1 5278 1 1518019917
+/
+crawl-66-249-64-78.googlebot.com
+0 7 7 2176796 1 1518001134
+/
+crawl-66-249-70-4.googlebot.com
+0 10 5 897595 0 0
+-
+208.88.225.18
+0 1 1 5278 1 1517985586
+/
+static-204-15-65-204.websense.com
+0 1 1 5278 1 1517965510
+/
+38.99.62.93
+0 1 1 5278 1 1518011705
+/
+researchscan399.eecs.umich.edu
+0 1 1 5278 1 1518032579
+/
+95.45.254.121
+0 5 5 32806 1 1517985822
+/2dgallery.html
+researchscan19.comsys.rwth-aachen.de
+0 1 1 5278 1 1517963184
+/
+184.174.119.200.rdns.colocationamerica.com
+0 1 1 5278 1 1518033957
+/
+crawl-66-249-70-8.googlebot.com
+0 9 2 16632 1 1517993469
+/psite/
+fetcher-img1-2.p.mail.ru
+0 1 0 284 0 0
+-
+google-proxy-66-249-81-175.google.com
+0 8 8 68358 1 1518027406
+/
+static.213-239-205-118.clients.your-server.de
+0 1 1 5278 1 1518003875
+/
+google-proxy-66-249-93-47.google.com
+0 1 1 8006 0 0
+-
+msnbot-157-55-39-194.search.msn.com
+0 1 1 5045 0 0
+-
+google-proxy-64-233-172-158.google.com
+0 1 1 5278 1 1518030122
+/
+spider-7.lipperhey.com
+0 11 7 44541 1 1518034642
+/
+crawl-66-249-70-5.googlebot.com
+0 3 2 40921 0 0
+-
+185.183.96.68
+0 1 1 5278 1 1517976420
+/
+ec2-52-14-138-148.us-east-2.compute.amazonaws.com
+0 3 3 9687 1 1517985290
+/
+107.170.213.98
+0 3 2 10854 2 1518016368
+/
+47.110.187.35.bc.googleusercontent.com
+0 1 1 5278 1 1518020433
+/
+ec2-34-233-124-6.compute-1.amazonaws.com
+0 2 1 5278 1 1517978912
+/
+zuim.de
+0 1 1 5278 1 1517983826
+/
+46.229.164.98
+0 1 0 288 0 0
+-
+static.88-198-22-8.clients.your-server.de
+0 2 0 569 0 0
+-
+crawl-66-249-70-2.googlebot.com
+0 1 1 2654 0 0
+-
+ip92.ip-54-36-150.eu
+0 1 0 284 0 0
+-
+google-proxy-66-249-81-171.google.com
+0 6 6 169763 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://lowtek.co.uk/js/lightbox.js
+0 1
+https://lowtek.co.uk/
+0 6
+- (Direct Request)
+0 272
+http://www.lowtek.co.uk/css/style.css
+0 6
+http://lowtek.co.uk/js/builder.js
+0 1
+http://www.google.com/search
+0 1
+http://lowtek.co.uk/js/effects.js
+0 1
+https://www.google.co.uk/
+0 1
+http://www.lowtek.co.uk/contact.html
+0 1
+http://www.lowtek.co.uk/
+0 82
+http://lowtek.co.uk/css/style.css
+0 4
+http://lowtek.co.uk
+0 5
+http://lowtek.co.uk/contact.html
+0 18
+http://uptime-as.net/lowtek.co.uk
+0 3
+http://lowtek.co.uk/robots.txt
+0 3
+http://www.lowtek.co.uk/images/lightbox/4big.jpg
+0 1
+https://www.google.co.id/
+0 1
+https://www.google.com/
+0 1
+http://burger-imperia.com/
+0 1
+http://lowtek.co.uk/
+0 35
+http://www.lowtek.co.uk/3dgallery.html
+0 13
+https://creativedundee.com
+0 1
+http://uptime-eu.net/lowtek.co.uk
+0 2
+http://lowtek.co.uk/Alastair_Low_CV_2013.pdf
+0 1
+http://lowtek.co.uk/js/scriptaculous.js
+0 2
+http://lowtek.co.uk/js/prototype.js
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 20
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; IODC-Odysseus 27681-101-040218193319-289; +https://iodc.co.uk)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Img/2.0; +http://go.mail.ru/help/robots)
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 2
+Googlebot-Image/1.0
+0 26
+Mozilla/5.0 (X11; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0
+0 7
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t13l; +http://researchscan.comsys.rwth-aachen.de)
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2)
+0 80
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 1
+Mozilla 5.0
+0 1
+Mozilla/5.0 (compatible; SurdotlyBot/1.0; +http://sur.ly/bot.html)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_4) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.65 Safari/535.11
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile S
+0 1
+Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR67B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobil
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Wget/1.14 (linux-gnu)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 1
+Mozilla/5.0 (compatible; Dataprovider.com;)
+0 10
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 5
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 4
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t13a; +http://researchscan.comsys.rwth-aachen.de)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 26
+Mozilla/5.0 zgrab/0.x
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/41.0.2272.118 Safari/537.36
+0 26
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.307.7 Safari/532.9
+0 1
+Mozilla/5.0 (compatible; evc-batch/2.0)
+0 1
+BUbiNG (+http://law.di.unimi.it/BUbiNG.html)
+0 4
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.2762.67
+0 27
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100721 Firefox/3.6.8
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0; F3311 Build/37.0.A.2.108) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.123 Mobile
+0 46
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (compatible; Pinterestbot/1.0; +http://www.pinterest.com/bot.html)
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 54
+null
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 12
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 1
+Digincore crawler bot. See https://www.digincore.com/crawler.html for rules and instructions.
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 12
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.3 Safari/534.24
+0 1
+Barkrowler/0.7 (+http://www.exensa.com/crawl)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+com.google.GoogleMobile/41.0.0 iPhone/11.2.5 hw/iPhone8_2
+0 1
+Mozilla/5.0 (compatible; spbot/5.0.3; +http://OpenLinkProfiler.org/bot )
+0 8
+Python/3.5 aiohttp/2.3.3
+0 1
+ia_archiver
+0 2
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 8
+http://www.nominet.org.uk/privacypolicy
+0 6
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 5
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

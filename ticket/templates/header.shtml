@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+<style type="text/css">
+body, td { font-family: Verdana, Helvetica, sans-serif; font-size: 10pt;}
+A       { color : #2E3197; text-decoration : none; }
+A:Hover { color : #C00; text-decoration : underline;}
+.sm {font-size: 8pt;}
+.tiny {font-size: 4pt;}
+.heading {font-size: 13pt;font-weight: 700; color: #2E3197;}
+.lbl { font-size: 9pt; font-weight: 700;}
+td.error  {
+  background-color: #FFC;
+  padding-right: 5pt;
+  padding-left: 5pt;
+  padding-top: 3pt;
+  padding-bottom: 3pt;
+  border-width:1px;
+  border-style:solid;
+  border-color: #996;
+  font-weight: 700;
+  color: #F00;
+}
+td.trow  {
+  padding-right: 2pt;
+  padding-left: 2pt;
+  border-style:solid;
+  border-bottom-width:2px;
+  border-right-width: 0px;
+  border-left-width:1px;
+  border-top-width:0;
+  border-color: #FFF;
+  background-color: #CCC;
+  text-align: center;
+  font-size : 8pt;
+  font-weight: 700;
+}
+td.orow  {
+  padding-right: 4pt;
+  padding-left: 4pt;
+  padding-top: 2pt;
+  padding-bottom: 1pt;
+  border-width:1px;
+  border-style:solid;
+  border-top-width:0;
+  border-bottom-width:0;
+  border-right-width:0;
+  font-size : 8pt;
+  border-color: #FFF;
+}
+td.erow  {
+  padding-right: 4pt;
+  padding-left: 4pt;
+  padding-top: 2pt;
+  padding-bottom: 1pt;
+  border-width:1px;
+  border-style:solid;
+  border-top-width:0;
+  border-bottom-width:0;
+  border-right-width:0;
+  font-size : 8pt;
+  border-color: #FFF;
+}
+td.omsg  {
+  background-color: #E8E8CF;
+  padding-right: 3pt;
+  padding-left: 3pt;
+  padding-top: 2pt;
+  padding-bottom: 2pt;
+  border-width:1px;
+  border-style:solid;
+  border-color: #FFF;
+}
+td.cmsg  {
+  background-color: #E8DCCF;
+  padding-right: 3pt;
+  padding-left: 3pt;
+  padding-top: 2pt;
+  padding-bottom: 2pt;
+  border-width:1px;
+  border-style:solid;
+  border-color: #FFF;
+}
+</style>
+<title>(%CONFIG_COMPANY%)</title>
+</head>
+<body>
+<center>
+<table width=(%HTMLBASEWIDTH%) cellpadding=0 cellspacing=0>
+        <tr>
+                <td align=left><span class=sm><font color="#AAAAAA"><b>(%LOGGEDAS%)</b></font></span></td>
+                <td align=right class=sm>
+                        <a href="(%CONFIG_HOME%)">Home</a> | <a href="(%ENV_SCRIPT_NAME%)?cmd=(%HELPDESKCMD%)&sid=(%INPUT_sid%)">Tickets</a> | <a href="(%ENV_SCRIPT_NAME%)?cmd=newticket&sid=(%INPUT_sid%)">Contact us</a> | (%LOGINLOGOUT%)
+                </td>
+</table>
+<table width=(%HTMLBASEWIDTH%) cellpadding=0 cellspacing=0>
+        <tr>
+                <td class=heading align=left nowrap>(%PAGEHEADING%)</td>
+        </tr>
+</table>
+<br class=tiny>
+<table width=(%HTMLBASEWIDTH%) cellpadding=0 cellspacing=0>
+        <tr>
+                <td style="background-color: #CCC;"><img src="(%CONFIG_IMGURL%)/dot.gif" width=(%HTMLBASEWIDTH%) height=2></td>
+        </tr>
+</table>
+(%ERROR_BOX%)

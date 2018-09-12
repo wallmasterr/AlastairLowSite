@@ -1,0 +1,63 @@
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0 bgcolor="#CFDCE8">
+<form method=post action="(%ENV_SCRIPT_NAME%)">
+<input type=hidden name=cmd value=keyform>
+<input type=hidden name=sid value=(%INPUT_sid%)>
+<input type=hidden name=do value=1>
+<input type=hidden name=qsort value="(%INPUT_qsort%)">
+<input type=hidden name=qsortorder value="(%INPUT_qsortorder%)">
+<input type=hidden name=qoffset value=(%INPUT_qoffset%)>
+<input type=hidden name=qwindow value=(%INPUT_qwindow%)>
+        <tr>
+                <td align=center>
+                        <table cellpadding=3>
+                                <tr>
+                                        <td>
+                                                <br class=tiny><br class=tiny>
+                                                <span class=lbl>Access Key</span>
+                                                <input type=text name=key size=35 value="(%INPUT_key%)">
+                                        </td>
+                                </tr>
+                                <tr>
+                                        <td align=right>
+                                                <input type=submit value="Enter"> <input type=submit name=cancel value=Cancel>
+                                                </form>
+                                                <br><br class=tiny><br class=tiny>
+                                        </td>
+                                </tr>
+                        </table>
+                </td>
+        </tr>
+        <tr>
+                <td align=center>
+                        (%MESSAGE%)
+                </td>
+        </tr>
+<form method=post action="(%ENV_SCRIPT_NAME%)">
+<input type=hidden name=cmd value=keyfinder>
+<input type=hidden name=sid value=(%INPUT_sid%)>
+<input type=hidden name=do value=1>
+<input type=hidden name=qsort value="(%INPUT_qsort%)">
+<input type=hidden name=qsortorder value="(%INPUT_qsortorder%)">
+<input type=hidden name=qoffset value=(%INPUT_qoffset%)>
+<input type=hidden name=qwindow value=(%INPUT_qwindow%)>
+        <tr>
+                <td align=center>
+                        <table cellpadding=3>
+                                <tr>
+                                        <td>
+                                                <br class=tiny><br class=tiny>
+                                                <span class=lbl>Email address</span>
+                                                <input type=text name=email size=34 value="(%INPUT_email%)">
+                                        </td>
+                                </tr>
+                                <tr>
+                                        <td align=right>
+                                                <input type=submit value="Enter"> <input type=submit name=cancel value=Cancel>
+                                                <br><br class=tiny><br class=tiny>
+                                        </td>
+                                </tr>
+                        </table>
+                </td>
+        </tr>
+        </form>
+</table>

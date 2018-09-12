@@ -1,0 +1,13 @@
+Re: Ticket (%TICKETID%), (%TICKETSTATE%)
+
+Dear (%UNAME%)
+
+A new message has been added to the service request #(%TICKETID%).
+
+(%MESSAGE%)
+
+You can view and update your inquiry here:
+(%TICKETURL%)
+
+(%OPERATORNAME%)
+(%COMPANYNAME%) Help Desk

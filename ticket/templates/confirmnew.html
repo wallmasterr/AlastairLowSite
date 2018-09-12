@@ -1,0 +1,30 @@
+<br class=tiny>
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0>
+        <tr>
+                <td width=50>&nbsp;</td>
+                <td align=left>
+                        We have received your message and created <nobr>a service ticket #<font color=red><b>(%TICKETID%)</b></font>.</nobr>
+                        Please refer to this number in all follow-up communications relating to this specific issue.
+                        <br><br>
+                        <span class=sm><b>Note:</b> We have sent a confirmation email to <b>(%INPUT_email%)</b> including instructions
+                        for tracking status of your ticket. If you did not receive the confirmation shortly after submission of your inquiry,
+                        there is something wrong with the email address you provided. Please be advised that if we cannot deliver a confirmation,
+                        we cannot deliver an answer as well. In an event of email delivery problems please use our online system in order to
+                        fetch an answer.</span>
+                        <br><br>
+                        In order to access your service request via our online system, please use the following access key:
+                        <br><br>
+                        <center><b><font color=red>(%TICKETKEY%)</font></b>
+                        <br></br>
+                        or follow this link
+                        <br><br>
+                        <a href="(%ENV_SCRIPT_NAME%)?cmd=ticket&key=(%TICKETKEY%)"><b>Ticket #(%TICKETID%)</b></a> (do not forget to bookmark it)
+                        <br><br>
+                        </center>
+                        (both key and link have been sent to your email address <b>(%INPUT_email%)</b> as well)
+                        <br><br>
+                </td>
+                <td width=50>&nbsp;</td>
+        </tr>
+</table>
+<br class=tiny>

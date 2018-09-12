@@ -1,0 +1,26 @@
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0 bgcolor="#CFDCE8">
+        <tr>
+                <td align=center>
+<br><b>(%INPUT_loginmsg%)</b><br class=tiny><br class=tiny>
+<table cellpadding=3 cellspacing=0>
+<form method=post action="(%ENV_SCRIPT_NAME%)">
+<input type=hidden name=cmd value=login>
+<input type=hidden name=dologin value=1>
+<input type=hidden name=nextcmd value="(%INPUT_nextcmd%)">
+<input type=hidden name=tk value="(%INPUT_tk%)">
+        <tr>
+                <td align=right class=lbl>User ID</td>
+                <td align=left><input type=text style="font-family: Verdana, Geneva, Helvetica, sans-serif; font-size: 10pt;" name=login value="(%INPUT_login%)"></td>
+        </tr>
+        <tr>
+                <td align=right class=lbl>Password</td>
+                <td align=left><input type=password style="font-family: Verdana, Geneva, Helvetica, sans-serif; font-size: 10pt;" name=passwd value="(%INPUT_passwd%)"></td>
+        </tr>
+        <tr>
+                <td colspan=2 align=right><input type=submit class=button value=Login><br class=tiny><br class=tiny></td>
+        </tr>
+        </form>
+</table>
+                </td>
+        </tr>
+</table>

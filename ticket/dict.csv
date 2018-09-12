@@ -1,0 +1,221 @@
+CHARSET,windows-1252
+Subject,Subject
+Created,Created
+Solved,Solved
+Customer,Customer
+Logged as,Logged as
+Home,Home
+Tickets,Tickets
+Ticket,Ticket
+Contact us,Contact us
+Login,Login
+Logout,Logout
+User ID,User ID
+Password,Password
+Missing User ID,Missing User ID
+Missing Password,Missing Password
+Wrong User ID or Password,Wrong User ID or Password
+Ticket does not exist,Ticket does not exist
+Invalid access key,Invalid access key
+Add message,Add message
+No changes,No changes
+Delete ticket,Delete ticket
+Please confirm ticket removal,Please confirm ticket removal
+Answer library,Answer library
+Markup help,Markup help
+New status,New status
+Posted as a followup to the solved ticket,Posted as a followup to the solved ticket
+See attachment,See attachment
+Ticket closed,Ticket closed
+Missing message,Missing message
+Open,Open
+Responded,Responded
+Closed,Closed
+Internal,Internal
+Transfer to,Transfer to
+Attachments,Attachments
+Contact Customer Service,Contact Customer Service
+Department,Department
+please select,please select
+Missing Name,Missing Name
+Missing Email,Missing Email
+Missing email address,Missing email address
+Invalid Email,Invalid Email
+Invalid email address,Invalid email address
+Missing,Missing
+Missing Subject,Missing Subject
+The ticket is already assigned to,The ticket is already assigned to
+Please be patient. Submission is in progress...,Please be patient. Submission is in progress...
+Name,Name
+Email,Email
+Problem,Problem
+Submit,Submit
+File,File
+Access Key,Access Key
+Please select,Please select
+Other,Other
+Help Desk,Help Desk
+id,id
+Ticket #,Ticket #
+name,name
+Name,Name
+email,email
+subject,subject
+operator,operator
+Operator,Operator
+status,status
+Status,Status
+updated,updated
+created,created
+Hot,Hot
+Pending,Pending
+Open,Open
+Active,Active
+Not solved,Not solved
+group,group
+Group,Group
+Any,Any
+any,any
+none,none
+There are no tickets matching your query,There are no tickets matching your query
+Tickets,Tickets
+out of,out of
+first,first
+prev,prev
+next,next
+last,last
+Search,Search
+Show all,Show all
+Ticket updated,Ticket updated
+Ticket Editor,Ticket Editor
+Ticket ID,Ticket ID
+Update Ticket,Update Ticket
+Close Window,Close Window
+Solution,Solution
+Use This Answer,Use This Answer
+Forgot the key? We will send it to your email address.,Forgot the key? We will send it to your email address.
+Email address,Email address
+Access keys were sent to your email address.,Access keys were sent to your email address.
+Missing access key,Missing access key
+No tickets found,No tickets found
+Enter,Enter
+Cancel,Cancel
+"Dear customer,","Dear customer,"
+This is a list of all service tickets associated with your email address,This is a list of all service tickets associated with your email address
+Use the following link to access your tickets,Use the following link to access your tickets
+Kind Regards,Kind Regards
+You were logged out,You were logged out
+Your session expired,Your session expired
+This command is available to operator only. Please login.,This command is available to operator only. Please login.
+Select,Select
+Preview,Preview
+Copy,Copy
+Use,Use
+New,New
+Edit,Edit
+Delete,Delete
+Close,Close
+Notes,Notes
+Answer not found,Answer not found
+Access denied. You may change your own answers only.,Access denied. You may change your own answers only.
+Answer deleted,Answer deleted
+Common,Common
+available to all operators,available to all operators
+Missing Title,Missing Title
+Missing Category,Missing Category
+Missing Answer,Missing Answer
+Answer Updated,Answer Updated
+Answer Saved,Answer Saved
+No answers defined,No answers defined
+All,All
+Title,Title
+Select existing category,Select existing category
+or define new one,or define new one
+Answer,Answer
+Update,Update
+Exit,Exit
+Assign to,Assign to
+any operator,any operator
+Access code,Access code
+Copy the code here,Copy the code here
+preview,preview
+"too big, not saved","too big, not saved"
+max size,max size
+Missing access code,Missing access code
+Missing Operator,Missing Operator
+to assign the ticket to,to assign the ticket to
+Invalid access code,Invalid access code
+Message Preview,Message Preview
+Dashboard,Dashboard
+Reports,Reports
+Date Range,Date Range
+Text,Text
+Jan,Jan
+Feb,Feb
+Mar,Mar
+Apr,Apr
+May,May
+Jun,Jun
+Jul,Jul
+Aug,Aug
+Sep,Sep
+Oct,Oct
+Nov,Nov
+Dec,Dec
+Close selected,Close selected
+Delete selected,Delete selected
+sel,sel
+Show,Show
+tickets per page.,tickets per page.
+Include abstracts,Include abstracts
+Groups,Groups
+Claim ownership,Claim ownership
+Done,Done
+Deleting answer,Deleting answer
+Are you sure?,Are you sure?
+Yes,Yes
+No,No
+Submitted,Submitted
+Select Report,Select Report
+Overview,Overview
+Operator Performance,Operator Performance
+Ticket Aging,Ticket Aging
+Hot Tickets,Hot Tickets
+Service Level,Service Level
+Build Report,Build Report
+No report selected,No report selected
+Unknown report requested,Unknown report requested
+New tickets,New tickets
+Today,Today
+This Week,This Week
+This Month,This Month
+"New tickets, last 12 months","New tickets, last 12 months"
+"New tickets, last 12 weeks","New tickets, last 12 weeks"
+"New tickets, last 30 days","New tickets, last 30 days"
+"Answers, this month","Answers, this month"
+"Answers, this week","Answers, this week"
+"Answers, today","Answers, today"
+"Answers, last 12 months","Answers, last 12 months"
+"Answers, last 12 weeks","Answers, last 12 weeks"
+"Answers, last 30 days","Answers, last 30 days"
+Service Level Report,Service Level Report
+percentage of tickets solved within SLA time,percentage of tickets solved within SLA time
+Last Week,Last Week
+Last Month,Last Month
+Breakdown of time to close a ticket,Breakdown of time to close a ticket
+tickets submitted during last 365 days,tickets submitted during last 365 days
+tickets in open or pending state,tickets in open or pending state
+Markup Quick Guide,Markup Quick Guide
+hrs,hrs
+days,days
+add notes,add notes
+Item,Item
+Posted by,Posted by
+on,on
+Date,Date
+Ticket transfer notice,Ticket transfer notice
+Transferred by,Transferred by
+Access link,Access link
+Access key,Access key
+assigned,assigned
+not assigned,not assigned

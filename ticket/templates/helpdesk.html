@@ -1,0 +1,58 @@
+<script language="JavaScript"><!--
+function setsort(orderby, direction)
+{
+ document.forms['hd'].qoffset.value='0';
+ document.forms['hd'].qsort.value=orderby;
+ document.forms['hd'].qsortorder.value=direction;
+ document.forms['hd'].submit();
+ return false;
+}
+//--></script>
+<script language="JavaScript"><!--
+function scroll(off, win)
+{
+ document.forms['hd'].qoffset.value=off;
+ document.forms['hd'].qwindow.value=win;
+ document.forms['hd'].submit();
+ return false;
+}
+//--></script>
+<script language="JavaScript"><!--
+function rowhl(id, inrow) {
+  var row = document.getElementById('tr'+id);
+  var odd = id % 2;
+  var c = (odd) ? '#F0F0E1' : '#E8E8CF';
+  row.style.backgroundColor = (inrow) ? '#FFFFD9' : c;
+}
+//--></script>
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0 bgcolor="#C6D7CF">
+<form method=post action="(%ENV_SCRIPT_NAME%)" name=hd>
+<input type=hidden name=cmd value=helpdesk>
+<input type=hidden name=sid value=(%INPUT_sid%)>
+<input type=hidden name=do value=1>
+<input type=hidden name=qsort value="(%INPUT_qsort%)">
+<input type=hidden name=qsortorder value="(%INPUT_qsortorder%)">
+<input type=hidden name=qoffset value=(%INPUT_qoffset%)>
+<input type=hidden name=qwindow value=(%INPUT_qwindow%)>
+        <tr>
+                <td colspan=7 class=tiny>&nbsp</td>
+        </tr>
+        <tr>
+                <td align=right class=lbl>Operator</td>
+                <td align=left>&nbsp;(%OPERSELBOX%)</td>
+                <td align=right class=lbl>Status</td>
+                <td align=left>&nbsp;(%STATUSSELBOX%)</td>
+                <td align=right class=lbl>Ticket #</td>
+                <td align=left>&nbsp;<input type=text name=tid size=6 value=(%INPUT_tid%)></td>
+                 <td align=right><input type=submit value=Search>&nbsp;<input type=submit name=reset value="Show all"></td>
+        </tr>
+        <tr>
+                <td colspan=7 class=tiny>&nbsp</td>
+        </tr>
+        </form>
+</table>
+<br class=tiny>
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0 >
+(%TICKETLIST%)
+</table>
+<br class=tiny>

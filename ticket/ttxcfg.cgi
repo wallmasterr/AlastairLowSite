@@ -1,0 +1,9 @@
+admpwd=5sFOvQO6
+admpwdseed=yc
+basedir=/home/sites/lowtek.co.uk/public_html/ticket
+imgurl=.
+mailer=/usr/sbin/sendmail
+ticketdb=/home/sites/lowtek.co.uk/public_html/ticket/tickets.cgi
+ticketid=/home/sites/lowtek.co.uk/public_html/ticket/ticketid.txt
+timezone=0
+userdb=/home/sites/lowtek.co.uk/public_html/ticket/users.cgi

@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+.active  { color:#FFFFFF; text-decoration:none;}
+.header a {
+	background-color: #000000;
+	color: #666666;
+	text-decoration: none;
+}
+.wrapper {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+body {
+	color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+body a {
+	color: #333333;
+	text-decoration: none;
+}
+
+.header {
+	height: 95px;
+	background-color: #000000;
+	padding: 10px;
+	color: #666666;
+	float: left;
+	width: 1680px;
+}
+.test2 {
+#FFFFFF; 5px;;
+	background-image: url(../images/stripe_424490bcb89eba5c6b6f.png);
+	height: 310px;
+	width: 1700px;
+	position: absolute;
+	left: 0px;
+	top: 113px;
+}
+#win1 {
+	position:absolute;
+	top:168px;
+	width:325px;
+	height:306px;
+	z-index:1;
+	border-top: solid 8px;
+	background-color: #FFFFFF;
+	padding: 20px;
+}
+#proname {
+	position:absolute;
+	left:445px;
+	top:210px;
+	width:766px;
+	height:127px;
+	z-index:5;
+	color: #CCCCCC;
+	font-size: 72px;
+}
+#apDiv2 {
+	position:absolute;
+	top:333px;
+	width:517px;
+	height:390px;
+	z-index:6;
+	left: 1033px;
+}

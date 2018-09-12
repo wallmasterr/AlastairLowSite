@@ -1,0 +1,81 @@
+<script language="JavaScript"><!--
+function confirmdel()
+{
+ return confirm("Please confirm ticket removal");
+}
+//--></script>
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0 bgcolor="#C6D7CF" style="padding-left: 5px; padding-right: 5px">
+<form method=post action="(%ENV_SCRIPT_NAME%)">
+<input type=hidden name=cmd value=ticket>
+<input type=hidden name=sid value=(%INPUT_sid%)>
+<input type=hidden name=do value=1>
+<input type=hidden name=tid value=(%INPUT_tid%)>
+<input type=hidden name=key value=(%INPUT_key%)>
+<input type=hidden name=qsort value="(%INPUT_qsort%)">
+<input type=hidden name=qsortorder value="(%INPUT_qsortorder%)">
+<input type=hidden name=qoffset value=(%INPUT_qoffset%)>
+<input type=hidden name=qwindow value=(%INPUT_qwindow%)>
+<input type=hidden name=oper value=(%INPUT_oper%)>
+<input type=hidden name=status value=(%INPUT_status%)>
+        <tr>
+                <td colspan=6 class=tiny>&nbsp</td>
+        </tr>
+        <tr>
+                <td align=left class=lbl>Subject</td>
+                <td>&nbsp;&nbsp;</td>
+                <td colspan=4 align=left>(%TICKET_subject%)</td>
+        </tr>
+        <tr>
+                <td align=left class=lbl>Status</td>
+                <td>&nbsp;&nbsp;</td>
+                <td align=left width=90%>(%TICKET_status%)</td>
+                <td align=left class=lbl>Operator</td>
+                <td>&nbsp;&nbsp;</td>
+                <td align=left>(%TICKET_oper%)</td>
+        </tr>
+        <tr>
+                <td align=left class=lbl>Created</td>
+                <td>&nbsp;&nbsp;</td>
+                <td align=left>(%TICKET_open%)</td>
+                <td align=left class=lbl>Customer</td>
+                <td>&nbsp;&nbsp;</td>
+                <td align=left><nobr>(%TICKET_name%) (<a href="mailto:(%TICKET_email%)">(%TICKET_email%)</a>)</nobr></td>
+        </tr>
+        <tr>
+                <td align=left class=lbl>Solved</td>
+                <td>&nbsp;&nbsp;</td>
+                <td align=left>(%TICKET_closed%)</td>
+                <td align=left class=lbl><nobr>Access key</nobr></td>
+                <td>&nbsp;&nbsp;</td>
+                <td align=left>(%TICKET_key%)</td>
+        </tr>
+        <tr>
+                <td colspan=6 class=tiny>&nbsp</td>
+        </tr>
+</table>
+<br class=tiny>
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0>
+(%MESSAGES%)
+        <tr>
+                <td colspan=2 class=tiny>&nbsp</td>
+        </tr>
+        <tr>
+                <td valign=top align=left bgcolor="#CFDCE8" style="padding-left: 5px">
+                        <br><span class=lbl>New status</span><br class=tiny>
+                        (%NEWSTATUS%)
+                </td>
+                <td valign=top align=left bgcolor="#CFDCE8" style="padding-left: 5px"><br><span class=lbl>&nbsp;Message</span><br class=tiny>
+                        <table>
+                                <tr>
+                                        <td align=right>
+                                        <textarea name=problem wrap=virtual cols=60 rows=10>(%INPUT_problem%)</textarea><br class=tiny><br class=tiny>
+                                        <input type=submit value="Add message">
+                                        <input type=submit name=cancel value="No changes">
+                                        (%DELTICKET%)<br><br class=tiny>
+                                        </td>
+                                </tr>
+                        </table>
+                </td>
+        </tr>
+        </form>
+</table>

@@ -1,0 +1,38 @@
+<table width=(%HTMLBASEWIDTH%) cellspacing=0 cellpadding=0 bgcolor="#CFDCE8">
+        <tr>
+                <td align=center><br class=tiny>
+<form method=post action="(%ENV_SCRIPT_NAME%)">
+<input type=hidden name=cmd value=newticket>
+<input type=hidden name=sid value=(%INPUT_sid%)>
+<input type=hidden name=do value=1>
+<input type=hidden name=tid value=(%INPUT_tid%)>
+<input type=hidden name=form value=(%INPUT_form%)>
+<table cellspacing=0 cellpadding=3>
+        <tr>
+                <td align=right class=lbl>Name<font color=red><sup>*</sup></font></td>
+                <td align=left><input type=text size=25 name=name value="(%INPUT_name%)"></td>
+        </tr>
+        <tr>
+                <td align=right class=lbl>Email<font color=red><sup>*</sup></font></td>
+                <td align=left><input type=text size=25 name=email value="(%INPUT_email%)"></td>
+        </tr>
+        <tr>
+                <td align=right class=lbl>Subject<font color=red><sup>*</sup></font></td>
+                <td align=left><input type=text size=40 name=subject value="(%INPUT_subject%)"></td>
+        </tr>
+        <tr>
+                <td colspan=2 align=left><span class=lbl>Problem</span><br class=tiny>
+                <textarea name=problem wrap=virtual cols=50 rows=10>(%INPUT_problem%)</textarea>
+        </tr>
+    <tr>
+                <td colspan=2 align=right>
+                        <input type=submit value=Submit>
+<!--                        <input type=submit name=cancel value=Cancel> -->
+                        <br><br class=tiny>
+                </td>
+        </tr>
+        </form>
+</table>
+                </td>
+        </tr>
+</table>
